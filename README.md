@@ -1,2 +1,2 @@
-# web-zuap
+# Web-Zuap
 My Frontend CheatSheet
